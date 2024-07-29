@@ -2,7 +2,7 @@ import dictionary from "../../assets/images/dictionary.jpg";
 import weather from "../../assets/images/Weather_image.jpg";
 import notes from "../../assets/images/Notes_app.png";
 import magicmemory from "../../assets/images/Magic_memory.jpg";
-import Landingpage from "../../assets/images/VideoCallingWeb.png";
+import Landingpage from "../../assets/images/Videocallingweb.png";
 import Typingspeedchecker from "../../assets/images/TypingSpeedChecker.jpg";
 import TranslatorWebpage from "../../assets/images/TranslatorWebpage.png";
 
